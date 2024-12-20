@@ -7,7 +7,8 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/jitesh-lalit-kumar-jain)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-jain-303252181/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/jitesh-lalit-kumar-jain)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-jain-303252181/)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jiteshjain614@gmail.com)](mailto:jiteshjain614@gmail.com) 
+
 
 <h3 align="left">Passionate Aspiring Data Analyst</h3>
 
