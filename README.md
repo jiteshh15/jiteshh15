@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=Welcome+🙏🏽;+I'm+Jitesh+Jain+👋🏽;Nice+to+meet+you!+🤝🏽" />
 </h1>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/Pravesh-Agarwal) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pravesh-agarwal27/)](https://www.linkedin.com/in/pravesh-agarwal27/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Pravesh-Agarwal/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pravesh_agarwal) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:praveshagarwal80@gmail.com)](mailto:praveshagarwal80@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/jitesh-lalit-kumar-jain)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-jain-303252181/)
 
 
 <img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
@@ -84,6 +84,7 @@ Your Next Data Analyst ✨
 <h5>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=60&duration=5500&lines=Thanks+For+Stopping+By!+✌🏽;+Have+a+Nice+Day!+✨;" />
 </h5>
+
 <h1 align="center">Hi there 👋, I'm Jitesh Jain</h1>
 <h3 align="center">Passionate Aspiring Data Analyst</h3>
 
