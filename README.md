@@ -5,11 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=Welcome+🙏🏽;+I'm+Jitesh+Jain+👋🏽;Nice+to+meet+you!+🤝🏽" />
 </h1>
 
-<h3 align="left">Passionate Aspiring Data Analyst</h3>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/jitesh-lalit-kumar-jain)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-jain-303252181/)
 
+<h3 align="left">Passionate Aspiring Data Analyst</h3>
+
 <h3>
+    
 Hi, I’m Jitesh Jain, Data Analyst from India 🇮🇳
 
 - 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
