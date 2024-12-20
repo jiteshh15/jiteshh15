@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
 
-- 👨‍💻 All of my projects are available at [Jitesh Jain Portfolio](https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain)
+- 👨‍💻 All of my projects are available at [**Jitesh Jain Portfolio**](https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain)
 
 - 📫 How to reach me **jiteshjain614@gmail.com**
 
