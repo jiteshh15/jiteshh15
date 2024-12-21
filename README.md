@@ -17,7 +17,7 @@
 Hi, I’m Jitesh Jain – a Data Analyst from India 🇮🇳
 </h3>
 
-- 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
+- 🌱  I’m currently learning **Excel, Power BI, SQL, Python**
   
 - 💡  I’m all about turning raw data into meaningful insights that make a difference.
   
