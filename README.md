@@ -43,7 +43,7 @@ Hi, I’m Jitesh Jain – a Data Analyst from India 🇮🇳
 - 🐍 **Python**: Familiar with using Pandas, Numpy, and Matplotlib for data analysis.
 - 🛠️  **Google Sheets & Canva**: For quick analysis and clean presentations.
 
-If you’re curious about data analysis or my journey so far, feel free to connect. Let’s talk data! 🚀
+If you’re curious about data analysis or my journey so far, feel free to connect. Let’s talk data! [LinkedIn](https://www.linkedin.com/in/jitesh-jain-303252181/) or via [Email](mailto:jiteshjain614@gmail.com).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBi" width="55" height="55"/> </a> 
