@@ -27,34 +27,21 @@ Hi, I’m Jitesh Jain – a Data Analyst from India 🇮🇳
 
 ### 🌟 What I Do
 
-  - 📊 Data Visualization: Turning complex numbers into easy-to-read visuals.
-
-  - 🔍 Data Analysis: Digging into data to find trends and opportunities.
-
-  - 🧼 Data Cleaning: Making sure data is clean, consistent, and ready to use.
-
-  - 📈 Business Insights: Helping businesses make smarter decisions with data.
-
-  - 📝 Dashboarding: Creating dashboards that don’t just look good but make sense.
-
-  - 📖 Storytelling with Data: Explaining numbers in a way that connects with everyone.
+  - **📊 Data Visualization**: Turning complex numbers into easy-to-read visuals.
+  - **🔍 Data Analysis**: Digging into data to find trends and opportunities.
+  - **🧼 Data Cleaning**: Making sure data is clean, consistent, and ready to use.
+  - **📈 Business Insights**: Helping businesses make smarter decisions with data.
+  - **📝 Dashboarding**: Creating dashboards that don’t just look good but make sense.
+  - **📖 Storytelling with Data**: Explaining numbers in a way that connects with everyone.
 
 
 ### 💻 My Tools
 
-- Power BI: Expert in building dashboards, data modeling, and DAX calculations.
-
-- SQL: Writing queries, managing databases, and analyzing data efficiently.
-
-- Excel: Advanced skills in formulas, Pivot Tables, Power Query, and reporting.
-
-- Python: Familiar with using Pandas, Numpy, and Matplotlib for data analysis.
-
-- Google Sheets & Canva: For quick analysis and clean presentations.
-
-### 🌱 Currently Improving
-
-- I’m sharpening my SQL skills even more to handle bigger challenges.
+- 📐 **Power BI**: Expert in building dashboards, data modeling, and DAX calculations.
+- 🛢️ **SQL**: Writing queries, managing databases, and analyzing data efficiently.
+- 📊 **Excel**: Advanced skills in formulas, Pivot Tables, Power Query, and reporting.
+- 🐍 **Python**: Familiar with using Pandas, Numpy, and Matplotlib for data analysis.
+- 🛠️  **Google Sheets & Canva**: For quick analysis and clean presentations.
 
 If you’re curious about data analysis or my journey so far, feel free to connect. Let’s talk data! 🚀
 
