@@ -14,31 +14,57 @@
 
 <h3>
     
-Hi, I’m Jitesh Jain, Data Analyst from India 🇮🇳
+Hi, I’m Jitesh Jain – a Data Analyst from India 🇮🇳
+</h3>
 
 - 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
+  
+- 💡  I’m all about turning raw data into meaningful insights that make a difference.
+  
+- 🚀  Whether it’s cleaning up messy datasets or crafting dashboards that tell a story.
+  
+- 💬  I love diving deep into numbers to solve problems.
 
-- 👨‍💻 All of my projects are available at [**Jitesh Jain Portfolio**](https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain)
+### 🌟 What I Do
 
-- 📫 How to reach me **jiteshjain614@gmail.com**
+  - 📊 Data Visualization: Turning complex numbers into easy-to-read visuals.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jitesh-jain-303252181" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitesh-jain" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/jiteshh15" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitesh-jain" height="30" width="40" />
-</a>
+  - 🔍 Data Analysis: Digging into data to find trends and opportunities.
 
-  </p>
+  - 🧼 Data Cleaning: Making sure data is clean, consistent, and ready to use.
 
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a> 
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  - 📈 Business Insights: Helping businesses make smarter decisions with data.
+
+  - 📝 Dashboarding: Creating dashboards that don’t just look good but make sense.
+
+  - 📖 Storytelling with Data: Explaining numbers in a way that connects with everyone.
+
+
+### 💻 My Tools
+
+- Power BI: Expert in building dashboards, data modeling, and DAX calculations.
+
+- SQL: Writing queries, managing databases, and analyzing data efficiently.
+
+- Excel: Advanced skills in formulas, Pivot Tables, Power Query, and reporting.
+
+- Python: Familiar with using Pandas, Numpy, and Matplotlib for data analysis.
+
+- Google Sheets & Canva: For quick analysis and clean presentations.
+
+### 🌱 Currently Improving
+
+- I’m sharpening my SQL skills even more to handle bigger challenges.
+
+If you’re curious about data analysis or my journey so far, feel free to connect. Let’s talk data! 🚀
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBi" width="55" height="55"/> </a> 
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="55" height="55"/> </a> 
+  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a>
+  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/> </a>
+
 
 
 <h5>
