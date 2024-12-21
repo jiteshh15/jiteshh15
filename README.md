@@ -27,12 +27,10 @@ Hi, I’m Jitesh Jain – a Data Analyst from India 🇮🇳
 
 ### 🌟 What I Do
 
-  - **📊 Data Visualization**: Turning complex numbers into easy-to-read visuals.
-  - **🔍 Data Analysis**: Digging into data to find trends and opportunities.
-  - **🧼 Data Cleaning**: Making sure data is clean, consistent, and ready to use.
-  - **📈 Business Insights**: Helping businesses make smarter decisions with data.
-  - **📝 Dashboarding**: Creating dashboards that don’t just look good but make sense.
-  - **📖 Storytelling with Data**: Explaining numbers in a way that connects with everyone.
+  - 💡 **Insights that Matter**: I dig into numbers to uncover patterns and trends that drive smarter decisions.
+  - 📊 **Clear Visuals**: Creating dashboards and visuals that make data easy to understand.
+  - 🧼 **Clean & Organized Data**: Transforming messy data into neat, usable formats.
+  - 📖 **Data Storytelling**: Turning numbers into stories that truly connect.
 
 
 ### 💻 My Tools
