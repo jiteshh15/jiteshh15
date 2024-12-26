@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain](https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain)
 
 - 💬 Ask me about **Data Analyst**
-- 🌱 I’m currently learning **Power BI, MySQL, Python, Excel**
+- 🌱 I’m currently learning **Power BI, MySQL, Python, & Excel**
 - 📫 How to reach me **jiteshjain614@gmail.com**
 - ⚡ Fun fact: **A data analyst’s superpower? Turning coffee and chaos into charts and clarity!**
 
