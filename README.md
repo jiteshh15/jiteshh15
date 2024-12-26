@@ -26,7 +26,6 @@
    <a href="mailto:jiteshjain614@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 
-     </a>
 </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBi" width="55" height="55"/> </a> 
