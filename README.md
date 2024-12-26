@@ -4,11 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshh15&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshh15" /> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain](https://codebasics.io/portfolio/Jitesh-Lalit-Kumar-Jain)
+- 👨‍💻 All of my projects are available at [Bio Link](https://bio.link/jiteshja)
 
 - 💬 Ask me about **Data Analyst**
 - 🌱 I’m currently learning **Power BI, MySQL, Python, & Excel**
-- 📫 How to reach me **jiteshjain614@gmail.com**
 - ⚡ Fun fact: **A data analyst’s superpower? Turning coffee and chaos into charts and clarity!**
 
 ### Connect with me:
