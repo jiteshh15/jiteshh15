@@ -1,4 +1,6 @@
-![anim-5-800](https://github.com/user-attachments/assets/50392aa4-14b8-4514-b31c-56c930e291e5)
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/d23c9d4b-eb53-4b69-8187-080da38dcd19" alt="Image Description">
+</h1>
 
 <h1 align="center">Hey Everyone 👋, I'm Jitesh Jain</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
