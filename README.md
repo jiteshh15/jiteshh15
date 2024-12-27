@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshh15&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshh15" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/94037aae-564d-4197-a1ce-b5a3c272c909">
 
-![iIYslpTKuA]()
 
 - 👨‍💻 All of my projects are available at [Bio Link](https://bio.link/jiteshja)
 
