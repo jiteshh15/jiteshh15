@@ -1,13 +1,13 @@
-<h1 align="center">
-  <img src="https://github.com/user-attachments/assets/d23c9d4b-eb53-4b69-8187-080da38dcd19" alt="Image Description">
+<p align="center"> <img src="https://github.com/user-attachments/assets/d23c9d4b-eb53-4b69-8187-080da38dcd19" alt="Image Description">
 </h1>
 
 <h1 align="center">Hey Everyone 👋, I'm Jitesh Jain</h1>
 <h3 align="center">Passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiteshh15&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshh15" /> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/94037aae-564d-4197-a1ce-b5a3c272c909">
 
+![iIYslpTKuA]()
 
 - 👨‍💻 All of my projects are available at [Bio Link](https://bio.link/jiteshja)
 
