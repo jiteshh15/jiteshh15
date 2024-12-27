@@ -1,4 +1,4 @@
-er<h1 align="center">
+<h1 align="center">
   <img src="https://github.com/user-attachments/assets/d23c9d4b-eb53-4b69-8187-080da38dcd19" alt="Image Description">
 </h1>
 
